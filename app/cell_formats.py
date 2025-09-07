@@ -54,3 +54,4 @@ donate_cell_format_dict = {
     'text_wrap': True,
     'border': 1
 }
+
